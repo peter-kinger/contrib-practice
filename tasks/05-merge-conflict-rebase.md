@@ -6,7 +6,7 @@ Rebasing rewrites the history of your branch so that it appears as if your chang
 
 1. **Repeat the setup from Task 04.**
 
-   Follow Steps 1 - 4 in `tasks/04-merge-conflict.md` (create `update-story-rebase`, edit line 2, open a PR in your fork, then make a conflicting edit on `main`). Stop once `main` has the competing change and your pull request shows the “This branch has conflicts” warning.
+   Follow Steps 1 - 4 in `tasks/04-merge-conflict.md` but this time with a different branch name (create `update-story-rebase`, edit line 2, open a PR in your fork, then make a conflicting edit on `main`). Stop once `main` has the competing change and your pull request shows the “This branch has conflicts” warning.
 
 2. **Rebase onto the updated `main` instead of merging.**
 

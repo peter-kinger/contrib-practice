@@ -9,6 +9,7 @@ Mesa uses the [Ruff](https://docs.astral.sh/ruff/) linter/formatter and [pre‑c
    From your local `main` branch, create a branch named `fix-style` or similar:
 
    ```bash
+   git checkout main
    git checkout -b fix-style
    ```
 
